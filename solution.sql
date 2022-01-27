@@ -1,4 +1,7 @@
 -- Lab | SQL Subqueries
+
+
+use sakila;
 					 
 SELECT 
     f.film_id
